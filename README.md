@@ -31,7 +31,7 @@
   - Delete phone
   
  ### Some images of the application:
-  <img src="https://github.com/LQVinh9/ApplicationSellsPhones/blob/main/Image/image1.png" width="60%" height="60%">
+  <img src="https://github.com/LQVinh9/ApplicationSellsPhones/blob/main/Image/image1.png" width="100%" height="100%">
   <br />
   <hr />
   <br />
