@@ -2,7 +2,7 @@
  
  *The application was developed on July 13, 2021*
  
- <img src="https://img.shields.io/badge/build-passing-brightgreen"> <img src="https://img.shields.io/badge/size-1.72%20MB-blue"> <img src="https://img.shields.io/badge/language-C#-orange">
+ <img src="https://img.shields.io/badge/build-passing-brightgreen"> <img src="https://img.shields.io/badge/size-1.72%20MB-blue"> <img src="https://img.shields.io/badge/language-C%23-orange">
  
  Enterprise resource sharing website application.
  
