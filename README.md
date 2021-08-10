@@ -4,24 +4,29 @@
  
  <img src="https://img.shields.io/badge/build-passing-brightgreen"> <img src="https://img.shields.io/badge/size-1.72%20MB-blue"> <img src="https://img.shields.io/badge/language-C%23-orange">
  
- Enterprise resource sharing website application.
+ Application to sell phones on PC.
  
  Techs: C#, Windows Form App, .NET Framework, SQLServer, MVC, Visual Studio 2019
  
  ### Purpose of the software:
-  - The application helps to control borrowing in the company. 
-  - Company employees can easily borrow company supplies. 
-  - Admin can easily control and approve employee requests.
+  - The application helps users to easily view phone information.
+  - The app makes shopping easy and easy to manipulate.
+  - Admin can add, delete, update phones conveniently.
   
  ### Features of the application:
   - Login
-  - Display- Search
-  - Create new account
-  - Booking
-  - Request process
-  - Request history
-  - Store database on Amazon web service
-  - Login with Google account
+  - Logout
+  - Register
+  - Search phone
+  - View description phone
+  - Add to cart
+  - Edit cart
+  - Checkout
+  - View history
+  - View order’s customer
+  - Insert phone
+  - Update phone
+  - Delete phone
   
  ### Some images of the application:
   <img src="https://github.com/LQVinh9/ApplicationSellsPhones/blob/main/Image/image1.png" width="60%" height="60%">
