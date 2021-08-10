@@ -4,7 +4,7 @@
  
  <img src="https://img.shields.io/badge/build-passing-brightgreen"> <img src="https://img.shields.io/badge/size-1.72%20MB-blue"> <img src="https://img.shields.io/badge/language-C%23-orange">
  
-  ![GitHub Repo stars](https://img.shields.io/github/stars/LQVinh9/ApplicationSellsPhones?style=social) ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FLQVinh9%2FApplicationSellsPhones)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/LQVinh9/ApplicationSellsPhones?style=social) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLQVinh9%2FApplicationSellsPhones&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
  Application to sell phones on PC.
  
