@@ -4,6 +4,8 @@
  
  <img src="https://img.shields.io/badge/build-passing-brightgreen"> <img src="https://img.shields.io/badge/size-1.72%20MB-blue"> <img src="https://img.shields.io/badge/language-C%23-orange">
  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/LQVinh9/ApplicationSellsPhones?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/LQVinh9/ApplicationSellsPhones?style=social)
+ 
  Application to sell phones on PC.
  
  Techs: C#, Windows Form App, .NET Framework, SQLServer, MVC, Visual Studio 2019
