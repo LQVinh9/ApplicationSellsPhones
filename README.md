@@ -6,7 +6,7 @@
  
  Application to sell phones on PC.
  
- Techs: C#, Windows Form App, .NET Framework, SQLServer, MVC, Visual Studio 2019
+ Techs: C#, Windows Form App, .NET Framework, SQLServer, Cloud Amazon web services, MVC2, Visual Studio 2019
  
  ### Purpose of the software:
   - The application helps users to easily view phone information.
